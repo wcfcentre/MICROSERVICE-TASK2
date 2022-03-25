@@ -17,7 +17,7 @@ namespace bookweb.Model
         //public int BlogId { get; set; }
         //public Blog Blog { get; set; }
         //public List<Comment> Comments { get; set; }
-
+        // test commit
         public DateTime BookingDate { get; set; }
         public string BookingTime { get; set; }
         public string PickUpPoint { get; set; }     // (Free text, for example: Ang Mo Kio Hub)
